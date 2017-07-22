@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I wrote this! I like coffee :)
 
 Things you may want to cover:
 
